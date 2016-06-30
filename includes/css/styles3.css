@@ -110,15 +110,18 @@ background: url('../../images/carousel_medium_01.jpg') top center no-repeat;
   }
   #slide1
   {
-  background: url('../../images/captiva-beach-captiva_54_990x660_201404211817 (2).jpg') top center no-repeat;
+  background: url('../../images/1447482434_1447482432255.jpg') top center no-repeat;
+
   }
   #slide2
   {
-    background: url('../../images/PhoenixMarketCityChennai_Velachery_0 (2).jpg') top center no-repeat;
+    background: url('../../images/ec29b1300792cf08f49d79be6a6b05c7.jpg') top center no-repeat;
+
   }
   #slide3
   {
-    background: url('../../images/2163147_27_z (2).jpg') top center no-repeat;
+    background: url('../../images/2_2016_01_03_06_45_38_675_465hswimmin.jpg') top center no-repeat;
+
   }
 
 }
@@ -130,11 +133,11 @@ background: url('../../images/carousel_medium_01.jpg') top center no-repeat;
   }
   #slide1
   {
-  background: url('../../images/captiva-beach-captiva_54_990x660_201404211817 (2).jpg') top center no-repeat;
+  background: url('../../images/maxresdefault - Copy.jpg') top center no-repeat;
   }
   #slide2
   {
-    background: url('../../images/PhoenixMarketCityChennai_Velachery_0 (2).jpg') top center no-repeat;
+    background: url('../../images/An-aerial-view-of-Marina-beach - Copy.jpg') top center no-repeat;
   }
   #slide3
   {
@@ -149,18 +152,18 @@ background: url('../../images/carousel_medium_01.jpg') top center no-repeat;
   }
   #slide1
   {
-  background: url('../../images/captiva-beach-captiva_54_990x660_201404211817.jpg') top center no-repeat;
-  background-size: cover;
+  background: url('../../images/maxresdefault.jpg') top center no-repeat;
+
   }
   #slide2
   {
-    background: url('../../images/PhoenixMarketCityChennai_Velachery_0.jpg') top center no-repeat;
-    background-size: cover;
+    background: url('../../images/An-aerial-view-of-Marina-beach.jpg') top center no-repeat;
+
   }
   #slide3
   {
     background: url('../../images/2163147_27_z.jpg') top center no-repeat;
-    background-size: cover;
+
   }
 
 }
@@ -172,8 +175,27 @@ footer{
 margin-top: 50px;
 }
 .col-12{
-  margin-top: 80px;
+  margin-top: 60px;
 }
 .modal-body p{
 margin-top: 20px;
+}
+.modal-title{
+  font-family:'Helvetica';
+  font-size: 2em;
+}
+.space{
+  margin-top: 30px;
+}
+footer a{
+  font-size: 15px;
+  color: #eee;
+}
+#tab2 img{
+  width: 100%;
+  height: 200px;
+}
+#tab1 img{
+  width: 100%;
+  height: 200px;
 }
